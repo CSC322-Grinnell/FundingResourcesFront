@@ -2,6 +2,8 @@
 
 Welcome to the Funding Resource Project Front End. The App is hosted on heroku here: `https://cls-funding-resources.herokuapp.com/`. 
 
+This Project was worked on by Everett Hayes, Izan Ahmed, Himanshu Bainwala, Luis Lua, & Govind Sartaj. Feel free to reach out to us with questions.
+
 ## Getting the App working locally ##
 
 I'm going to give a broad list of steps.
